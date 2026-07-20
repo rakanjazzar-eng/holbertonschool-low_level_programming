@@ -1,0 +1,26 @@
+# Functions, Nested Loops
+
+This project is part of the Holberton School Low Level Programming curriculum.
+
+## Description
+
+This directory contains C programs that demonstrate:
+- Functions
+- Nested loops
+- Using `_putchar`
+- Basic C syntax
+- Control flow
+
+## Files
+
+- `0-putchar.c` - Prints `_putchar` followed by a new line.
+
+## Compilation
+
+```bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
+```
+
+## Author
+
+Rakan Jazzar
