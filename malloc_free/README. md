@@ -1,26 +1,19 @@
-# Functions, Nested Loops
+C - malloc, free
 
-This project is part of the Holberton School Low Level Programming curriculum.
+This project introduces dynamic memory allocation in C using malloc and free.
 
-## Description
+Learning Objectives
 
-This directory contains C programs that demonstrate:
-- Functions
-- Nested loops
-- Using `_putchar`
-- Basic C syntax
-- Control flow
+At the end of this project, I should be able to explain:
 
-## Files
+* The difference between automatic and dynamic memory allocation
+* What malloc is and how to use it
+* What free is and how to use it
+* Why and when dynamic memory allocation is needed
+* How to use Valgrind to check for memory leaks
 
-- `0-putchar.c` - Prints `_putchar` followed by a new line.
+Requirements
 
-## Compilation
-
-```bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
-```
-
-## Author
-
-Rakan Jazzar
+* Allowed editors: vi, vim, emacs
+* All files are compiled on Ubuntu 20.04 LTS
+* Compilation flags:
